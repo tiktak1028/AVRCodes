@@ -1,7 +1,6 @@
 /*
 LEDS at PORTD0-7
 Button Switch at PB0 & PB1
-
  */
 
 #include <avr/io.h>                        /* Defines pins, ports, etc */
